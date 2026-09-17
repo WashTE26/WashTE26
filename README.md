@@ -7,12 +7,12 @@ My portfolio combines hands-on IT troubleshooting, home lab experience, technica
 ## Career Focus
 
 - IT Support
+- Business Analyst
+- Program Analyst
 - Desktop Support
 - Technical Support
 - IT Specialist
 - Junior Systems Support
-- Business Analyst
-- Program Analyst
 
 ## Technical Skills
 
