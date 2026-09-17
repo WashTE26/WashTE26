@@ -90,7 +90,7 @@ Information technology coursework and academic projects.
 
 ## Current Development
 
-I am continuing to expand my technical portfolio through hands-on labs, home lab projects, IT troubleshooting, CompTIA-focused technical training, and information technology coursework.
+I am continuing to expand my technical portfolio through hands-on labs, home lab projects, IT troubleshooting, CompTIA-focused technical training, and information technology coursework through Training Concepts July-December 2026.
 
 ## Connect With Me
 
